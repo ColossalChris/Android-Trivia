@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bar Trivia</string>
+    <string name="done">Done</string>
+    <string name="enterURL">URL You Wish To Display</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
